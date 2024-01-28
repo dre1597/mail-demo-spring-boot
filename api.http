@@ -1,0 +1,9 @@
+http://localhost:8080/mail
+Content-Type: application/json
+
+{
+  "to": "lqPjK@example.com",
+  "subject": "Test",
+  "name": "John",
+  "message": "Message from John"
+}
